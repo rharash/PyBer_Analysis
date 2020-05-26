@@ -15,6 +15,7 @@ In this Analysis using acquired skills the sum of Fares for each city is plotted
 
  
 The final reports show that the “Total fare” from Jan, 2019- April 2019 is highest in Urban cities, Medium in Suburban cities and Lowest in Rural Cities.
+
 Second paragraph : -
 Challenges: -
 The data Type for the Date was not compatible to elicit it in graph
